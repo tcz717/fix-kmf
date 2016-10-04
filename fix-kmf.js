@@ -21,4 +21,3 @@ define('fixkmf', [
         }, 'json'), this)
     };
 });
-seajs.use('fixkmf');
