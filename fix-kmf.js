@@ -20,4 +20,5 @@ define([
                 f.status.loading = !1
         }, 'json'), this)
     };
+    d('.fl').append("<span style='color:red'>(Screenword fixed)</span>");
 });
